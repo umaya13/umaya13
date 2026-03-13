@@ -28,8 +28,7 @@
 - CSS
 
 **Backend**
-- Python (FastAPI / Flask)
-- 
+- Python 
 
 **Database**
 - MySQL
@@ -77,9 +76,9 @@ Tech:
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/YOURUSERNAME
+- GitHub: https://github.com/umaya13
 - LinkedIn: add-your-link
-- Email: your-email@example.com
+- Email:  umayanethmi568@gmail.com
 
 ---
 
