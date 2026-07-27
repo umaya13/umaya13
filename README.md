@@ -1,292 +1,200 @@
-Act as a world-class GitHub Profile Designer, UI/UX Designer, and Senior Full-Stack Software Engineer.
+# Hi there 👋 I'm Umaya Karunarathna
 
-Your task is to create an extremely attractive, premium-quality GitHub Profile README.md that looks like it belongs to a professional software engineer at Google, Microsoft, or OpenAI.
 
-The design should be modern, clean, elegant, responsive, and visually appealing while remaining fully compatible with GitHub Markdown.
 
-Use a professional dark-theme aesthetic with blue, cyan, and purple accents.
+🎓 Software Engineering Student  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💻 Passionate about Web Development, Python, and Cybersecurity  
 
-👤 Profile Information
+🚀 Building projects to improve my programming and problem-solving skills.
 
-Name:
-Umaya Karunarathna
 
-Role:
-Software Engineering Undergraduate
 
-Headline:
-💻 Full-Stack Developer | 🤖 AI Enthusiast | 📱 Mobile App Developer | 🌐 Web Developer
+---
 
-Location:
-Sri Lanka
 
-GitHub:
-https://github.com/umaya13
 
-Email:
-umayanethmi568@gmail.com
+## 👨‍💻 About Me
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- 🎓 2nd year Software Engineering student
 
-🎨 Design Requirements
+- 🔭 Currently working on 
 
-Create a premium GitHub profile using:
+- 🌱 Learning ** **
 
-• Beautiful animated typing header
-• Large centered profile introduction
-• Animated coding GIF
-• Glassmorphism style section headers (using Markdown tables where appropriate)
-• Attractive Shields.io badges
-• SVG icons
-• Gradient dividers
-• Visitor counter
-• GitHub followers badge
-• GitHub stars badge
-• Profile views counter
-• GitHub trophies
-• GitHub statistics
-• Contribution streak
-• Top languages chart
-• Contribution graph
-• Snake contribution animation
-• Random Dev Quote
-• Coding Quote
-• Spotify section (optional)
-• Wave footer
-• Professional emojis
-• Perfect spacing and alignment
+- 💡 Interested in **AI, Web Development, and Software Engineering**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- 📫 Contact me: umayanethmi568email@email.com
 
-✨ Hero Section
 
-Include:
 
-Animated typing text such as:
+---
 
-👋 Hi, I'm Umaya Karunarathna
 
-Software Engineering Student
 
-Full Stack Developer
+## 🛠️ Technologies & Tools
 
-AI Enthusiast
 
-React Developer
 
-Flutter Developer
+**Languages**
 
-Always Learning New Technologies
-
-Add a beautiful coding GIF beside the introduction.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-👨‍💻 About Me
-
-Create a stylish About Me section with icons.
-
-Include:
-
-🎓 Software Engineering Undergraduate
-
-💻 Passionate about Web Development
-
-🤖 Exploring Artificial Intelligence
-
-📱 Mobile App Development
-
-🌐 Full Stack Development
-
-🚀 Love Building Real-World Projects
-
-🌱 Always Learning
-
-☕ Coffee + Code
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🚀 Tech Stack
-
-Display technologies using large colorful badges grouped into:
-
-Programming Languages
 - Python
-- Java
-- PHP
-- JavaScript
-- SQL
-- C#
 
-Frontend
-- HTML5
-- CSS3
-- Bootstrap
+- Java
+
+- SQL
+
+
+
+**Frontend**
+
 - React
 
-Backend
-- Spring Boot
-- PHP
-- Python
-- REST APIs
+- HTML
 
-Mobile
-- Flutter
-- Firebase
+- CSS
 
-Database
+
+
+**Backend**
+
+- Python 
+
+
+
+**Database**
+
 - MySQL
 
-Tools
+
+
+**Tools**
+
 - Git
+
 - GitHub
+
 - VS Code
-- Android Studio
-- Figma
-- Postman
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 
 
-🔥 Featured Projects
 
-Create beautiful project cards.
 
-Project 1
+---
 
-🤖 AI Career Development Platform
 
-Description
 
-Tech Stack
+## 🚀 Projects
 
-Features
 
-GitHub Button
 
-Live Demo Button
+ 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Project 2
 
-📦 Lost & Found Management System
+**Tech Stack**
 
-Description
+- Python API
 
-Tech Stack
+- React Frontend
 
-Features
+- MySQL Database
 
-GitHub Button
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Project 3
+Features:
 
-📅 Event Planning Mobile App
+ 
 
-Description
+---
 
-Tech Stack
 
-Features
 
-GitHub Button
+### 🤖 AI Career Development Platform
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+AI-powered platform that analyzes CVs and suggests career improvement plans.
 
-📈 GitHub Analytics
 
-Include:
 
-GitHub Stats
+Tech:
 
-Top Languages
+- Python
 
-GitHub Streak
+- React
 
-GitHub Activity Graph
+- MySQL
 
-GitHub Trophies
+- html
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- css
 
-🏆 Achievements
+- php
 
-Display attractive badges for:
+- java
 
-Open Source
 
-Full Stack
 
-React
+---
 
-Java
 
-Python
 
-AI
+## 📊 GitHub Stats
 
-Flutter
 
-Git
 
-GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🎯 Current Goals
 
-Master Spring Boot
+---
 
-Become an AI Engineer
 
-Build SaaS Applications
 
-Learn Cloud Computing
+## 🌐 Connect With Me
 
-Contribute to Open Source
 
-Complete 100+ GitHub Repositories
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- GitHub: https://github.com/umaya13
 
-🌍 Connect With Me
+- LinkedIn: add-your-link
 
-GitHub
+- Email:  umayanethmi568@gmail.com
 
-LinkedIn (placeholder)
 
-Email
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-💡 Fun Fact
 
-Add an attractive fun fact section.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⭐ If you like my projects, feel free to star them!
 
-⚡ Footer
 
-Include:
 
-Developer quote
+<!--
 
-Wave footer
+**umaya13/umaya13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Thank you message
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Requirements
+Here are some ideas to get you started:
 
-• Make the README look like a premium GitHub profile.
-• Use modern Markdown formatting.
-• Ensure every badge, widget, and image uses working URLs.
-• Align sections neatly.
-• Use centered layouts where appropriate.
-• Include comments showing where to replace project links.
-• The final README should be approximately 300–500 lines long and ready to paste directly into GitHub.
+
+
+- 🔭 I’m currently working on ...
+
+- 🌱 I’m currently learning ...
+
+- 👯 I’m looking to collaborate on ...
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about ...
+
+- 📫 How to reach me: ...
+
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ...
+
+--> 
+
