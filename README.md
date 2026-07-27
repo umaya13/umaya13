@@ -1,91 +1,80 @@
- 
+<div align="center">
+
+  <h1>👋 Hi, I'm Umaya Karunarathna</h1>
+  <h3>🎓 Software Engineering Student | 💻 Web Developer | 🛡️ Cybersecurity Enthusiast</h3>
+
+  <p>
+    <a href="https://github.com/umaya13">
+      <img src="https://img.shields.io/github/followers/umaya13?label=Followers&style=social" alt="GitHub Followers" />
+    </a>
+  </p>
+
+</div>
 
 ---
-# Hi there 👋 I'm Umaya Karunarathna
 
-🎓 Software Engineering Student  
+## 👩‍💻 About Me
+
+🎓 2nd Year Software Engineering Student  
 💻 Passionate about Web Development, Python, and Cybersecurity  
-🚀 Building projects to improve my programming and problem-solving skills.
+🚀 Building projects to improve my programming and problem-solving skills  
+
+- 🔭 **Currently working on:** AI Career Development Platform
+- 🌱 **Learning & Improving:** Advanced Full-Stack Development & Software Architecture
+- 💡 **Interests:** AI, Web Development, Software Engineering, Cybersecurity
+- 📫 **How to reach me:** [umayanethmi568@gmail.com](mailto:umayanethmi568@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 2nd year Software Engineering student
-- 🔭 Currently working on 
-- 🌱 Learning ** **
-- 💡 Interested in **AI, Web Development, and Software Engineering**
-- 📫 Contact me: umayanethmi568email@email.com
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,react,mysql,git,github,vscode" alt="My Tech Stack" />
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
-
-**Languages**
-- Python
-- Java
-- SQL
-
-**Frontend**
-- React
-- HTML
-- CSS
-
-**Backend**
-- Python 
-
-**Database**
-- MySQL
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-
----
-
-## 🚀 Projects
-
-**Tech Stack**
-- Python API
-- React Frontend
-- MySQL Database
-
-Features:
-
----
+## 🚀 Featured Projects
 
 ### 🤖 AI Career Development Platform
-AI-powered platform that analyzes CVs and suggests career improvement plans.
+> An AI-powered platform that analyzes CVs and suggests personalized career improvement plans.
 
-Tech:
-- Python
-- React
-- MySQL
-- html
-- css
-- php
-- java
+- **Tech Stack:** Python, React, MySQL, PHP, HTML, CSS, Java
+- **Features:** CV Parsing, Skill Identification, Personalized Career Guidance
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=umaya13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Umaya's Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaya13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umaya13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/umaya13
-- LinkedIn: add-your-link
-- Email: umayanethmi568@gmail.com
+<p align="left">
+  <a href="https://github.com/umaya13" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:umayanethmi568@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ If you like my projects, feel free to star them!
----
-
-DESIGN REQUIREMENTS:
-1. Use modern aesthetic formatting (e.g., centered title banner, custom shields/badges for tools, styled quotes, minimalist clean layout).
-2. Fix the placeholder "YOURUSERNAME" in the GitHub stats link to "umaya13".
-3. Provide the full ready-to-copy raw Markdown inside a single code block.
+<p align="center">
+  <i>⭐ If you like my projects, feel free to star my repositories!</i>
+</p>
