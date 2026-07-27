@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 2nd Year Software Engineering Student  
+🎓 3rd Year Software Engineering Student  
 💻 Passionate about Web Development, Python, and Cybersecurity  
 🚀 Building projects to improve my programming and problem-solving skills  
 
@@ -44,8 +44,32 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umaya13&theme=tokyonight&no-bg=true&margin-w=15" alt="Umaya's GitHub Trophies" />
+</div>
+
+<br />
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umaya13&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+<br />
+
+### 🐍 Contribution Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umaya13/umaya13/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umaya13/umaya13/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/umaya13/umaya13/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br />
+
+### ⚡ Overall Overview
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=umaya13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Umaya's Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaya13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
