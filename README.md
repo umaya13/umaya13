@@ -1,99 +1,200 @@
-<div align="center">
+# Hi there 👋 I'm Umaya Karunarathna
 
-  <h1>👋 Hi, I'm Umaya Karunarathna</h1>
-  <h3>🎓 Software Engineering Student | 💻 Web Developer | 🛡️ Cybersecurity Enthusiast</h3>
 
-  <p>
-    <a href="https://github.com/umaya13">
-      <img src="https://img.shields.io/github/followers/umaya13?label=Followers&style=social" alt="GitHub Followers" />
-    </a>
-  </p>
 
-</div>
+🎓 Software Engineering Student  
 
----
-
-## 👩‍💻 About Me
-
-🎓 2nd Year Software Engineering Student  
 💻 Passionate about Web Development, Python, and Cybersecurity  
-🚀 Building projects to improve my programming and problem-solving skills  
 
-- 🔭 **Currently working on:** AI Career Development Platform
-- 🌱 **Learning & Improving:** Advanced Full-Stack Development & Software Architecture
-- 💡 **Interests:** AI, Web Development, Software Engineering, Cybersecurity
-- 📫 **How to reach me:** [umayanethmi568@gmail.com](mailto:umayanethmi568@gmail.com)
+🚀 Building projects to improve my programming and problem-solving skills.
+
+
 
 ---
 
-## 🛠️ Languages & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,react,mysql,git,github,vscode" alt="My Tech Stack" />
-</p>
+
+## 👨‍💻 About Me
+
+- 🎓 2nd year Software Engineering student
+
+- 🔭 Currently working on 
+
+- 🌱 Learning ** **
+
+- 💡 Interested in **AI, Web Development, and Software Engineering**
+
+- 📫 Contact me: umayanethmi568email@email.com
+
+
 
 ---
 
-## 🚀 Featured Projects
+
+
+## 🛠️ Technologies & Tools
+
+
+
+**Languages**
+
+- Python
+
+- Java
+
+- SQL
+
+
+
+**Frontend**
+
+- React
+
+- HTML
+
+- CSS
+
+
+
+**Backend**
+
+- Python 
+
+
+
+**Database**
+
+- MySQL
+
+
+
+**Tools**
+
+- Git
+
+- GitHub
+
+- VS Code
+
+ 
+
+
+
+---
+
+
+
+## 🚀 Projects
+
+
+
+ 
+
+
+
+**Tech Stack**
+
+- Python API
+
+- React Frontend
+
+- MySQL Database
+
+
+
+Features:
+
+ 
+
+---
+
+
 
 ### 🤖 AI Career Development Platform
-> An AI-powered platform that analyzes CVs and suggests personalized career improvement plans.
 
-- **Tech Stack:** Python, React, MySQL, PHP, HTML, CSS, Java
-- **Features:** CV Parsing, Skill Identification, Personalized Career Guidance
+AI-powered platform that analyzes CVs and suggests career improvement plans.
+
+
+
+Tech:
+
+- Python
+
+- React
+
+- MySQL
+
+- html
+
+- css
+
+- php
+
+- java
+
+
+
+---
+
+
+
+## 📊 GitHub Stats
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+
 
 ---
 
-## 📊 Contribution Graphs & Activity
 
-### 🧊 3D Contribution Calendar
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umaya13&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies Calendar" />
-</p>
-
-<br />
-
-### 🐍 Snake Eating Contributions Graph
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umaya13/umaya13/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umaya13/umaya13/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/umaya13/umaya13/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br />
-
-### 📈 Overall Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=umaya13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Umaya's Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaya13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umaya13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/umaya13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:umayanethmi568@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+
+- GitHub: https://github.com/umaya13
+
+- LinkedIn: add-your-link
+
+- Email:  umayanethmi568@gmail.com
+
+
 
 ---
 
-<p align="center">
-  <i>⭐ If you like my projects, feel free to star my repositories!</i>
-</p>
+
+
+⭐ If you like my projects, feel free to star them!
+
+
+
+<!--
+
+**umaya13/umaya13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+Here are some ideas to get you started:
+
+
+
+- 🔭 I’m currently working on ...
+
+- 🌱 I’m currently learning ...
+
+- 👯 I’m looking to collaborate on ...
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about ...
+
+- 📫 How to reach me: ...
+
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ...
+
+--> 
+
