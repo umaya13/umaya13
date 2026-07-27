@@ -1,8 +1,4 @@
-Act as an expert Frontend Developer and GitHub Profile Designer. I want you to transform my raw GitHub profile README details into a highly professional, modern, aesthetic, and visually appealing README.md file. 
-
-IMPORTANT: Do NOT change, add, or invent any personal details, email, links, tech stack, or projects. Keep all my original information EXACTLY as given below, but structure and format it using beautiful layout techniques (like GitHub shields/badges, aesthetic dividers, clean typography, aligned sections, and dynamic stat cards).
-
-Here is my current README content:
+ 
 
 ---
 # Hi there 👋 I'm Umaya Karunarathna
